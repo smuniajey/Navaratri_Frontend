@@ -1,0 +1,2 @@
+This folder is for image and audio assets.
+Add your gallery images named gal1.jpg ... gal5.jpg, a garba image named garba.png, and a background music file bg-music.mp3 here.
